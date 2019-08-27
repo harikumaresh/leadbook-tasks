@@ -7,7 +7,6 @@
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
-* [License](#license)
 * [Contact](#contact)
 
 
@@ -112,7 +111,7 @@ This will show link [http://127.0.0.1:5000/](http://127.0.0.1:5000/)
 
 Your Name - Hariharan Kumareshbabu - hariharan701@gmail.com
 
-Project Link: [https:://github.com/harikumaresh/leadbook](https:://github.com/harikumaresh/leadbook)
+Project Link: [https:://github.com/harikumaresh/leadbook-tasks](https:://github.com/harikumaresh/leadbook-tasks)
 
 
 
